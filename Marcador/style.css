@@ -1,0 +1,46 @@
+/* #173F5F #20639B #3CAEA3 */
+
+body {
+    padding: 0;
+    margin: 0%;
+    background-color: rgb(230, 230, 230);
+}
+
+.marc-top {
+    background-color: #033B63;
+    border-radius: 10px;
+    margin:5px;
+    width: 200px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.12);
+}
+.marcador {
+    display: flex;
+    width: 116px;
+}
+
+.puntuacion input{
+    width: 50px;
+    height: 50px;
+
+    font-size: 2rem;
+    background-color: #31393C;
+    border-radius: 7px;
+    color: #E9F1F7;
+
+}
+.nombre input{
+    width: 50px;
+
+    background-color: #31393C;
+    border-radius: 7px;
+    color: #E9F1F7;
+    margin-bottom: 2px;
+}
+
+.sets input{
+    display: flex;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.12);
+}
